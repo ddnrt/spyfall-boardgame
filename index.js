@@ -22,3 +22,5 @@ for (let i = 0; i < result.length; i++ ) {
         if (err) return console.log(err);
     })
 }
+
+console.log('Карточки сгенерированы. Проверьте папку "output"')
